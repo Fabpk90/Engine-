@@ -1,0 +1,9 @@
+#ifndef CONSTANTES_H_INCLUDED
+#define CONSTANTES_H_INCLUDED
+
+#define HAUTEUR 22
+#define LARGEUR 40
+#define NOMMAP 20
+
+
+#endif // CONSTANTES_H_INCLUDED
